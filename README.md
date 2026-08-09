@@ -1,6 +1,12 @@
 # Workshop Spring Boot JPA
 
-API REST desenvolvida em **Java com Spring Boot e Spring Data JPA**, utilizando Hibernate para o mapeamento objeto-relacional e banco de dados H2 para o ambiente de testes.
+## 📌 Sobre o projeto
+
+Este projeto foi desenvolvido como parte dos estudos de **Spring Boot, JPA e Hibernate**, acompanhando um curso prático.
+
+Durante o desenvolvimento, foram explorados conceitos como desenvolvimento de APIs REST, arquitetura em camadas, persistência de dados, relacionamentos entre entidades, operações CRUD e tratamento de exceções.
+
+O projeto tem como objetivo consolidar os conceitos apresentados durante o curso e servir como base para estudos e projetos futuros.
 
 O projeto simula uma aplicação de vendas, com funcionalidades relacionadas ao gerenciamento de usuários, produtos, categorias e pedidos.
 
